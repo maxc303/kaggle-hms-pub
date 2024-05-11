@@ -4,6 +4,7 @@ folds/
 hms-pipeline.zip
 models*
 *tmp/
+hms-configs.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
